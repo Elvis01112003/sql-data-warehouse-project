@@ -105,13 +105,6 @@ data-warehouse-project/
 │   ├── source_crm/
 │   └── source_erp/
 │
-├── docs/
-│   ├── etl.drawio
-│   ├── data_architecture.drawio
-│   ├── data_catalog.md
-│   ├── data_flow.drawio
-│   ├── data_models.drawio
-│   └── naming-conventions.md
 │
 ├── scripts/
 │   ├── bronze/
