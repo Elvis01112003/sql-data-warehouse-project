@@ -104,6 +104,8 @@ data-warehouse-project/
 ├── datasets/
 │   ├── source_crm/
 │   └── source_erp/
+|
+├── docs/
 │
 │
 ├── scripts/
@@ -116,7 +118,6 @@ data-warehouse-project/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-└── requirements.txt
 ```
 
 ---
@@ -251,6 +252,3 @@ Aspiring Data Engineer | SQL | Azure Data Factory | Data Warehousing
 
 ---
 
-# ⭐ If you found this project useful
-
-Please consider giving it a **Star ⭐** on GitHub.
